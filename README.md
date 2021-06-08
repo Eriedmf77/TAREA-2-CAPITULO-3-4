@@ -91,6 +91,7 @@ c.-	Rectangular de 0.125 ×4.0 pulgadas
 
 ![image](https://user-images.githubusercontent.com/84431598/121264776-548e2100-c87d-11eb-8e44-cc2cbcfa2aec.png)
 
+3. 	Una barra colectora de cobre sólido de 250 pies de longitud que, se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02Ω a 20℃, calcule la altura requerida de la barra (en pulgadas).
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
