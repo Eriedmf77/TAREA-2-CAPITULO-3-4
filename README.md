@@ -97,6 +97,12 @@ c.-	Rectangular de 0.125 ×4.0 pulgadas
 
 ![image](https://user-images.githubusercontent.com/84431598/121269106-d6357d00-c884-11eb-9143-66260675c114.png)
 
+5. 	Un alambre de cobre con un diámetro de 0.80mm tiene una resistencia de 10.3Ω a 20℃. ¿Cuánto mide el alambre en metros y en pies?
+
+![image](https://user-images.githubusercontent.com/84431598/121271499-6c6ba200-c889-11eb-8278-690b03de3a0e.png)
+
+![image](https://user-images.githubusercontent.com/84431598/121271575-9cb34080-c889-11eb-832a-556454752a13.png)
+
 
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
