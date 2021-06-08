@@ -74,6 +74,7 @@ c.	0.005 mm
 
 D.	0,5 cm
 
+![image](https://user-images.githubusercontent.com/84431598/121259574-e8f48580-c875-11eb-9231-db51676cd44e.png)
 
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
