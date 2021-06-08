@@ -70,7 +70,9 @@ b.	1.0 mm
 
 c.	0.005 mm
 
-d.	0.5 cm
+![image](https://user-images.githubusercontent.com/84431598/121259454-c2364f00-c875-11eb-8a5b-59d377e496c4.png)
+
+D.	0,5 cm
 
 
 
