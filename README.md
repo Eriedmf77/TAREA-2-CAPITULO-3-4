@@ -59,8 +59,11 @@
 1.	Determine la resistencia, a  20℃,  de 100m de alambre de aluminio sólido que tiene los siguientes radios:
    
  A.0,5 mm
+ 
 b.	1.0 mm
+
 c.	0.005 mm
+
 d.	0.5 cm
 
 
