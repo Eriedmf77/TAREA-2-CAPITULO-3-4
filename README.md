@@ -56,6 +56,15 @@
 
 ### 3.1.1 RESISTENCIA DE CONDUCTORES
 
+1.	Determine la resistencia, a  20℃,  de 100m de alambre de aluminio sólido que tiene los siguientes radios:
+   
+ A.0,5 mm
+b.	1.0 mm
+c.	0.005 mm
+d.	0.5 cm
+
+
+
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
