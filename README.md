@@ -80,9 +80,17 @@ D.	0,5 cm
 
 a.-  	Cuadrada de 0.25 × 0.25 pulgadas
 
-b.- b.	Redonda de 0.125 pulgadas de diámetro
+![image](https://user-images.githubusercontent.com/84431598/121264357-a4201d00-c87c-11eb-8a2d-2f211e805adc.png)
+
+
+b.	Redonda de 0.125 pulgadas de diámetro
+
+![image](https://user-images.githubusercontent.com/84431598/121264664-227cbf00-c87d-11eb-884a-271d5f4d21b2.png)
 
 c.-	Rectangular de 0.125 ×4.0 pulgadas
+
+![image](https://user-images.githubusercontent.com/84431598/121264776-548e2100-c87d-11eb-8e44-cc2cbcfa2aec.png)
+
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
