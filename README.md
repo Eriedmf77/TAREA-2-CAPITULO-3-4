@@ -76,6 +76,13 @@ D.	0,5 cm
 
 ![image](https://user-images.githubusercontent.com/84431598/121259574-e8f48580-c875-11eb-9231-db51676cd44e.png)
 
+2. 	Determine la resistencia, a 20℃, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales:
+
+a.-  	Cuadrada de 0.25 × 0.25 pulgadas
+
+b.- b.	Redonda de 0.125 pulgadas de diámetro
+
+c.-	Rectangular de 0.125 ×4.0 pulgadas
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
