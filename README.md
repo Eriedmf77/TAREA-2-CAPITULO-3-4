@@ -93,6 +93,12 @@ c.-	Rectangular de 0.125 ×4.0 pulgadas
 
 3. 	Una barra colectora de cobre sólido de 250 pies de longitud que, se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02Ω a 20℃, calcule la altura requerida de la barra (en pulgadas).
 
+4. 	El alambre de nicromo se usa para construir elementos calefactores. Determine la longitud de un alambre de nicromo de 1.0 mm  de diámetro que se necesita para producir un elemento calefactor que tenga resistencia de 2.0 Ω a una temperatura de 20℃
+
+![image](https://user-images.githubusercontent.com/84431598/121269106-d6357d00-c884-11eb-9143-66260675c114.png)
+
+
+
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
