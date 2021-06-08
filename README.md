@@ -65,6 +65,9 @@
  
 b.	1.0 mm
 
+![image](https://user-images.githubusercontent.com/84431598/121259305-8f8c5680-c875-11eb-8ee0-e1e5ae8b1e9f.png)
+
+
 c.	0.005 mm
 
 d.	0.5 cm
