@@ -152,6 +152,12 @@ El AWG 19 debe ser capaz de manejar 4A y el AWG  manejar 0.30 A
 
 La medida de corriente de cada AWG ya viene dada en una tabla, por lo que la corriente que podrá conducir el AWG 2 es  96A.
 
+15.	Se determina que un carrete de alambre de transformador de cobre AWG 36 tiene una resistencia de 550 Ω a una temperatura de 20 ℃. ¿Cuánto mide el alambre en metros?
+
+![image](https://user-images.githubusercontent.com/84431598/121442793-f5e6a700-c951-11eb-8885-ac66a45eaf7f.png)
+
+
+
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
 
 ### 3.1.4 EFECTOS DE LA TEMPERATURA
