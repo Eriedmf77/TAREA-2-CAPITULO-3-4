@@ -110,7 +110,9 @@ c.-	Rectangular de 0.125 ×4.0 pulgadas
 
 ![image](https://user-images.githubusercontent.com/84431598/121275220-cb351980-c891-11eb-93ab-73cab83d562f.png)
 
+Comparándolo con el valor de la resistividad del carbón se puede decir que la resistividad obtenida es menor a la resistividad del carbón.
 
+8. 
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
