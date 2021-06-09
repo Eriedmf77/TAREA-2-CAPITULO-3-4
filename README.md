@@ -114,6 +114,8 @@ Comparándolo con el valor de la resistividad del carbón se puede decir que la 
 
 8. 	Un alambre sólido circula de 200m de longitud y con un diámetro de 0.4mm tiene una resistencia de 357 Ω a 20℃. ¿De qué material está hecho el alambre?
 
+![image](https://user-images.githubusercontent.com/84431598/121404527-a8eadc80-c921-11eb-9f72-ece8859a3c36.png)
+
 
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
