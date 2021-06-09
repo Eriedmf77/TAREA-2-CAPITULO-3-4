@@ -125,6 +125,11 @@ Comparándolo con el valor de la resistividad del carbón se puede decir que la 
 
 Esta aleación no está buena como el cobre.
 
+10.	Una sección de alambre de hierro con diámetro de 0.030 pulgadas tiene  una resistencia de 2500 Ω. (a una temperatura de 20℃).
+
+a.a.	Determine el área de la sección transversal en metros cuadrados y en milímetros cuadrados. (Nota: una pulgada=2.54 cm=25.4)
+
+
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
