@@ -132,6 +132,12 @@ a.a.	Determine el área de la sección transversal en metros cuadrados y en mil�
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
+11.	Utilice la tabla 3-2 para terminar la resistencia de 300 pies de conductores de cobre sólido AWG 22 Y AWG 19. Compare los diámetro y resistencias delos alambres.
+
+![image](https://user-images.githubusercontent.com/84431598/121411532-59a8aa00-c929-11eb-8761-d190ba6b850e.png)
+
+El diámetro de AWG 19 es 1.42 veces el diámetro de AWG 22.La resistencia del AWG 19 tiene la mitad de la resistencia de AWG  22, e igual en la longitud.
+
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
 
 ### 3.1.4 EFECTOS DE LA TEMPERATURA
