@@ -156,6 +156,9 @@ La medida de corriente de cada AWG ya viene dada en una tabla, por lo que la cor
 
 ![image](https://user-images.githubusercontent.com/84431598/121442793-f5e6a700-c951-11eb-8885-ac66a45eaf7f.png)
 
+16.	¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36?
+
+La capacidad de  conducir una alambre de cobre AWG 36 es de 0.036
 
 
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
