@@ -148,6 +148,8 @@ El mayor diámetro es de AWG 2 mientras que el diámetro de AWG 8 es menor, la m
 
 El AWG 19 debe ser capaz de manejar 4A y el AWG  manejar 0.30 A
 
+14.	Si el AWG 8 se especifica para un máximo de 40 A, ¿Cuánta corriente podrá conducir con seguridad en el AWG 2?
+
 
 
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
