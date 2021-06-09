@@ -116,6 +116,7 @@ Comparándolo con el valor de la resistividad del carbón se puede decir que la 
 
 ![image](https://user-images.githubusercontent.com/84431598/121404527-a8eadc80-c921-11eb-9f72-ece8859a3c36.png)
 
+
 9.  	Una sección de 2500 m de alambre de aleación tiene una resistencias de 32 Ω. Si el alambre tiene un diámetro de 1.5mm, determine la resistividad del material en ohm-metro .¿
 
 
