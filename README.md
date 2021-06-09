@@ -106,7 +106,11 @@ c.-	Rectangular de 0.125 ×4.0 pulgadas
 6. 	Una pieza de alambre de aluminio tiene una resistencia, a 20℃, de 20 Ω. Si este alambre se funde y se usa para producir un segundo alambre que tiene una longitud cuatro veces más grande que la original, ¿ cuál será la resistencia del nuevo alambre a 20℃ ? (Sugerencia: el volumen del alambre no ha cambiado).
 
 
-7.
+7. 	Determine la resistividad (en ohm-metros) de un cilindro de gráfico con base de carbón que tiene una longitud de 6.00cm, un diámetro de 0.50mm y una resistencia medida de 3.0 Ω a 20℃ .¿Cómo se compara este valor con la resistividad que reporta para el carbón?
+
+![image](https://user-images.githubusercontent.com/84431598/121275220-cb351980-c891-11eb-93ab-73cab83d562f.png)
+
+
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
