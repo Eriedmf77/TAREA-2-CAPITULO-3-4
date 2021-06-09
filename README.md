@@ -144,6 +144,10 @@ El diámetro de AWG 19 es 1.42 veces el diámetro de AWG 22.La resistencia del A
 
 El mayor diámetro es de AWG 2 mientras que el diámetro de AWG 8 es menor, la mitad del diámetro AWG 2, la resistencia de AWG 8 es mayor que la resistencia AWG 2
 
+13.	Determine la máxima corriente que puede conducir un alambre de AWG 19 y uno AWG 30.
+
+El AWG 19 debe ser capaz de manejar 4A y el AWG  manejar 0.30 A
+
 
 
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
