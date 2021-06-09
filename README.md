@@ -103,7 +103,10 @@ c.-	Rectangular de 0.125 ×4.0 pulgadas
 
 ![image](https://user-images.githubusercontent.com/84431598/121271575-9cb34080-c889-11eb-832a-556454752a13.png)
 
+6. 	Una pieza de alambre de aluminio tiene una resistencia, a 20℃, de 20 Ω. Si este alambre se funde y se usa para producir un segundo alambre que tiene una longitud cuatro veces más grande que la original, ¿ cuál será la resistencia del nuevo alambre a 20℃ ? (Sugerencia: el volumen del alambre no ha cambiado).
 
+
+7.
 
 ### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
