@@ -138,6 +138,14 @@ a.a.	Determine el área de la sección transversal en metros cuadrados y en mil�
 
 El diámetro de AWG 19 es 1.42 veces el diámetro de AWG 22.La resistencia del AWG 19 tiene la mitad de la resistencia de AWG  22, e igual en la longitud.
 
+12.	Use la tabla 3-2 para encontrar la resistencia de 250m de conductores de cobre sólido AWG 8 Y AWG 2. Compare los diámetros y resistencias.
+
+![image](https://user-images.githubusercontent.com/84431598/121418241-5ebd2780-c930-11eb-9eec-db36d4108793.png)
+
+El mayor diámetro es de AWG 2 mientras que el diámetro de AWG 8 es menor, la mitad del diámetro AWG 2, la resistencia de AWG 8 es mayor que la resistencia AWG 2
+
+
+
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
 
 ### 3.1.4 EFECTOS DE LA TEMPERATURA
