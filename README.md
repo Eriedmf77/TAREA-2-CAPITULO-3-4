@@ -150,7 +150,7 @@ El AWG 19 debe ser capaz de manejar 4A y el AWG  manejar 0.30 A
 
 14.	Si el AWG 8 se especifica para un máximo de 40 A, ¿Cuánta corriente podrá conducir con seguridad en el AWG 2?
 
-
+La medida de corriente de cada AWG ya viene dada en una tabla, por lo que la corriente que podrá conducir el AWG 2 es  96A.
 
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
 
