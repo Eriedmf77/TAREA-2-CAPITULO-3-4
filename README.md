@@ -195,6 +195,12 @@ La capacidad de  conducir una alambre de cobre AWG 36 es de 0.036
 
 ### 3.2.6 EFICIENCIA
 
+54.La potencia de entrada de un motor con una eficiencia de 85% es de 690W.¿ Cuál es la potencia de salida?
+
+a.En watts
+
+
+
 ### 3.2.7 RESISTENCIAS NO LINEALES Y DINÁMICAS
 
 ### 3.2.8 ANÁLISIS DE CIRCUITOS CON AYUDA DE LA COMPUTADORA 
