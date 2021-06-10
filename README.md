@@ -368,6 +368,13 @@ a.En watts
 
 ![image](https://user-images.githubusercontent.com/84431598/121446674-a906ce80-c959-11eb-8705-e1a48688a0ea.png)
 
+56. Para un dispositivo específico, η=94%. Si las pérdidas son de 1.8W, ¿Cuánto valen P_(ent ) y P_sal?
+
+57. La potencia de entrada de un dispositivo es de 1100W. Si la potencia que se pierde debido a varias ineficiencias es de 190W, ¿Cuál es la eficiencia del dispositivo?
+
+![image](https://user-images.githubusercontent.com/84431598/121549397-71d50380-c9d3-11eb-9f7a-5271b7fc956c.png)
+
+58. Un calentador de agua de 240V y 4.5 A produce una energía calorífica a razón de 3.6 MJ por hora. Calcule:
 
 
 ### 3.2.7 RESISTENCIAS NO LINEALES Y DINÁMICAS
