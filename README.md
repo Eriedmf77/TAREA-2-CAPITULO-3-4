@@ -50,6 +50,9 @@
 
 ### 2.2.7 RESISTENCIAS NO LINEALES Y DINÁMICAS
 
+![image](https://user-images.githubusercontent.com/84431598/121473296-13366800-c988-11eb-8d97-ce49591da3cb.png)
+
+
 ### 2.2.8 ANÁLISIS DE CIRCUITOS CON AYUDA DE LA COMPUTADORA
 
 
