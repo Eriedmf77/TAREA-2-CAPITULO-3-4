@@ -2,7 +2,7 @@
 
 ## 1.OBJETIVOS
  
- -Calcular la reisistencia de una sección de un conductor, dada su área de sección trnasversal y la longitud.
+ -Calcular la reisistencia de una sección de un conductor, dada su área de sección trnasversal y la longitud.   
  
  -Aplicar el coeficiente de temperatura  de un material para calcular el cambio de resistencia conforme varia la temperatura de la muestra.
  
