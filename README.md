@@ -7,6 +7,11 @@
 -  Aplicar  el código de colores  de los resistores para determinar la resistencia y tolerancia  de un resistor de composición de valor fijo.
 - Calcular la conductancia de cualquier componete resistivo
 - Entender la resistencia de dispositivos no lineales como varistores y diodos.
+- Calcular el voltaje, la corriente y la resistencia en circuitos simples utilizando la Ley de Ohm.
+- Calcular la potencia en circuitos de cd.
+- Calcular la energía  usada por cargas eléctricas, costos de energía.
+- Identificar y determinar la eficiencia de máquinas y sistemas.
+- Emplear el PSpice y el Multisim para resolver probles de la ley Ohm.
 
 ## 2. MARCO TEÓRICO (RESUMEN)
 
