@@ -17,7 +17,10 @@
 ![image](https://user-images.githubusercontent.com/84431598/121546336-d478d000-c9d0-11eb-9923-da22f7c9b4da.png)
 
 
-### 2.1.3  RESISTENCIA DE ALAMBRES: MILESIMA CIRCULAR
+![image](https://user-images.githubusercontent.com/84431598/121547630-ea3ac500-c9d1-11eb-9cde-3f39a32cb0e0.png)
+
+
+### 2.1.3 RESISTENCIA DE ALAMBRES: MILESIMA CIRCULAR
 
 ### 2.1.4 EFECTOS DE LA TEMPERATURA
 
