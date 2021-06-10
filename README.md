@@ -519,6 +519,9 @@ Total:26,03 =26 doresres con 3 centavos
 
 ![image](https://user-images.githubusercontent.com/84431598/121549397-71d50380-c9d3-11eb-9f7a-5271b7fc956c.png)
 
+59. Un motor de cd de 120V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?
+
+![image](https://user-images.githubusercontent.com/84431598/121598240-3c4a0d80-ca07-11eb-80b0-2d76afa00d27.png)
 
 
 
