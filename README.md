@@ -162,6 +162,60 @@ La capacidad de  conducir una alambre de cobre AWG 36 es de 0.036
 
 
 ### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
+17.-Determine el área en milésimas circulares de los siguientes conductores (T=20°C):
+
+a. Alambre circular con un diámetro de 0.016 pulgadas
+
+![image](https://user-images.githubusercontent.com/84458025/121449690-eb330e80-c95f-11eb-970c-f6758229cbbe.png)
+
+b. Alambre circular con un diámetro de 2.0 mm
+
+![image](https://user-images.githubusercontent.com/84458025/121449937-65fc2980-c960-11eb-9302-54395efdc278.png)
+
+c. Barra colectora rectangular de 0.25x6.0 pulgadas
+
+![image](https://user-images.githubusercontent.com/84458025/121450241-f470ab00-c960-11eb-9d5f-cdf8420fb76f.png)
+
+18.-Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas cuadradas y milímetros cuadrados.
+
+19.-Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
+
+![image](https://user-images.githubusercontent.com/84458025/121450424-55987e80-c961-11eb-9ad1-135ea797a164.png)
+
+a.-
+
+![image](https://user-images.githubusercontent.com/84458025/121450526-8d072b00-c961-11eb-942d-5cdac3a8e7de.png)
+
+b.-
+
+![image](https://user-images.githubusercontent.com/84458025/121450926-39e1a800-c962-11eb-8cdf-a4fe868a92ea.png)
+
+20.-Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
+
+a. 250 MC       c. 250 MMC
+
+b. 1000 MC      d. 750 MMC
+
+21. Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500 ohms.
+
+a. Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares.
+
+![image](https://user-images.githubusercontent.com/84458025/121451505-529e8d80-c963-11eb-89b1-c68d89f70d9f.png)
+
+
+b. Determine el diámetro del alambre en milésimas y en pulgadas.
+
+𝑑 = √4144 = 64.37𝑚𝑚𝑠
+
+𝑑 = 0.0644𝑝𝑙𝑔𝑠
+
+22.- Repita el problema 21 si el alambre está hecho de nicromo.
+
+23.-Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 ohms (a una temperatura de 20°C).
+
+![image](https://user-images.githubusercontent.com/84458025/121452189-9e9e0200-c964-11eb-97b7-77ad723539fc.png)
+
+
 
 ### 3.1.4 EFECTOS DE LA TEMPERATURA
 
