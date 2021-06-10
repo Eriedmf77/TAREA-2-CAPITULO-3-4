@@ -199,6 +199,10 @@ La capacidad de  conducir una alambre de cobre AWG 36 es de 0.036
 
 a.En watts
 
+55. La potencia de salida de un transformados con η=97%  es de 50Kw. ¿Cuál es la potencia de entrada?
+
+![image](https://user-images.githubusercontent.com/84431598/121446674-a906ce80-c959-11eb-8705-e1a48688a0ea.png)
+
 
 
 ### 3.2.7 RESISTENCIAS NO LINEALES Y DINÁMICAS
