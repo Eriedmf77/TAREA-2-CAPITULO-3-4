@@ -102,6 +102,7 @@ D.	0,5 cm
 3. 	Una barra colectora de cobre sólido de 250 pies de longitud que, se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02Ω a 20℃, calcule la altura requerida de la barra (en pulgadas).
 
 
+
 5. 	Un alambre de cobre con un diámetro de 0.80mm tiene una resistencia de 10.3Ω a 20℃. ¿Cuánto mide el alambre en metros y en pies?
 
 ![image](https://user-images.githubusercontent.com/84431598/121271499-6c6ba200-c889-11eb-8278-690b03de3a0e.png)
