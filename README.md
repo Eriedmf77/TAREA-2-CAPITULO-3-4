@@ -537,6 +537,22 @@ Total:26,03 =26 doresres con 3 centavos
 
 ### 3.2.7 RESISTENCIAS NO LINEALES Y DINÁMICAS
 
+67. Un resistor que depende de voltaje tiene la característica I-V de la figura 4-41
+
+![image](https://user-images.githubusercontent.com/84431598/121607720-209a3380-ca16-11eb-8dc6-4fd689692f7e.png)
+
+a. En V=25V, ¿Cuánto valen I y R_cd?
+
+![image](https://user-images.githubusercontent.com/84431598/121607878-78389f00-ca16-11eb-9fba-8f3061c10bdd.png)
+
+b. En V=60V, ¿cuánto valen I y R_cd?
+
+![image](https://user-images.githubusercontent.com/84431598/121608209-188ec380-ca17-11eb-8b00-0092fa3998b4.png)
+
+c.¿Por qué los dos valores son diferentes?
+
+Los valores son diferencias ya que el volumen y la corriente tiene valores diferentes en la grafica, por enda va a variar el volumen 
+
 ### 3.2.8 ANÁLISIS DE CIRCUITOS CON AYUDA DE LA COMPUTADORA 
 
 ## 4. VIDEO
