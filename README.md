@@ -190,6 +190,8 @@ c. Barra colectora rectangular de 0.25x6.0 pulgadas
 
 18.-Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas cuadradas y milímetros cuadrados.
 
+
+
 19.-Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
 
 ![image](https://user-images.githubusercontent.com/84458025/121450424-55987e80-c961-11eb-9ad1-135ea797a164.png)
@@ -291,10 +293,6 @@ b. Determine al valor del coeficiente de temperatura, a, a 20°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121463891-79b38a00-c978-11eb-89dd-13674e4a49f9.png)
 
-c. Suponga que la función de resistencia frente a temperatura es lineal y determine la resistencia esperada del material a 0°C (el punto de congelación del agua) y a -40°C.
-
-
-
 29. Un calentador eléctrico está hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2 ohms a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121454825-1cfca300-c969-11eb-95af-216545a176bf.png)
@@ -351,8 +349,72 @@ c. Determine la intercepción de temperatura del material
 ### 3.2.1 LEY DE OHM
 
 ### 3.2.2 POLARIDAD DEL VOLTAJE Y DIRECCIÓN DE LA CORRIENTE
+26.-Los amperímetros de la figura 4-37 tienen autopolaridad. Determine sus lecturas,magnitudes y polaridad.
+
+
 
 ### 3.2.3 POTENCIA
+
+27.-Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo.
+¿Cuál es la energía disipada en watts?
+
+
+28.-¿Cuánto tarda un cautín de 100 W en disipar 1470 J?
+
+
+29.-Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
+
+30.-Una cafetera de 120 V está especificada en 960 W. Determine su resistencia y especifique la corriente.
+
+![image](https://user-images.githubusercontent.com/84458025/121578544-67753280-c9f0-11eb-8085-c9fad892e0ce.png)
+
+
+31.-Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 ohms. ¿Cuánta corriente requiere?
+
+![image](https://user-images.githubusercontent.com/84458025/121578759-a1463900-c9f0-11eb-9fcd-21789eba937e.png)
+
+32.-Un lámpara de advertencia demanda 125 mA cuando disipa 15 W. ¿Cuál es su resistencia?
+
+![image](https://user-images.githubusercontent.com/84458025/121579015-ec604c00-c9f0-11eb-9c11-7a9fb2e48fe7.png)
+
+33.-¿Cuántos volts se deben aplicar a un resistor de 3 Ω para que resulte una disipación de potencia de 752 W?
+
+![image](https://user-images.githubusercontent.com/84458025/121579205-216c9e80-c9f1-11eb-8109-f655a3b4775c.png)
+
+34.-¿Qué reducción de IR ocurre cuando se disipan 90 W en un resistor de 10 ohms?
+
+35.-Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente. 
+
+R=10K =10000 ohms 
+
+![image](https://user-images.githubusercontent.com/84458025/121580736-b58b3580-c9f2-11eb-8f5e-0e1aefb0514b.png)
+
+36.-Un resistor de 2.2 kohms con una tolerancia de ±5% se conecta a una fuente de cd de 12 V. ¿Cuál es el posible intervalo de potencia que disipa el resistor?
+
+
+37.-Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
+
+![image](https://user-images.githubusercontent.com/84458025/121581382-609bef00-c9f3-11eb-9376-7b33f73a97ea.png)
+
+38.-En un circuito resistivo E=12V.
+a. Si la carga disipa 8 W ¿cuál es la corriente en el circuito?
+
+P=V.I
+
+I=P/V=(8 W)/(12 V)=0,66 A
+
+b. Si la carga disipa 36 W ¿cuál es la resistencia de la carga?
+
+P=V^2/R
+
+R=V^2/P=〖(12 V)〗^2/(36 W)=4 Ω
+
+39.-Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
+
+3,56hp.(746 W)/1hp=2655,76=2656 W
+
+
+
 
 ### 3.2.4 CONVENCIÓN DE LA DIRECCIÓN DE LA POTENCIA
 
