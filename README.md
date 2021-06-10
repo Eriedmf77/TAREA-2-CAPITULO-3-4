@@ -1,7 +1,10 @@
 # TAREA-2-CAPITULO-3-4
 
 ## 1.OBJETIVOS
-
+- Calcula la resistencia de una sección de un conductor, dada su área de sección trnasversal y la longitud.
+- Conversión de áreas medidas en milésimas cuadradas, metros cuadrados y milésimas circulares.
+-  Emplear el coeficiente de temperatura  de un material para calcular el cambio en la resistencia  conforme varía la temperatura de la muestra.
+-  Aplicar  el código de colores  de los resistores para determinar la resistencia y tolerancia  de un resistor de composición de valor fijo.
 
 ## 2. MARCO TEÓRICO (RESUMEN)
 
