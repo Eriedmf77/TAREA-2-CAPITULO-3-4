@@ -3,9 +3,13 @@
 ## 1.OBJETIVOS
  
  -Calcular la reisistencia de una sección de un conductor, dada su área de sección trnasversal y la longitud.
- -Aplicar el coeficiente de temperatura  de un material para calcular el cambio de resistencia condorme varia la temperatura de la muestra.
+ 
+ -Aplicar el coeficiente de temperatura  de un material para calcular el cambio de resistencia conforme varia la temperatura de la muestra.
+ 
  -Emplear el codigo de colores de los resistores para determinar la resistencia, y tolerancia de un resistor de composición de valor fijo.
+ 
  -Calcular la conductancia de cualquier componente resistivo.
+ 
  -Reconocer el procedimiento para usar el óhmetro  con el fin de determinar la continuidad de un circuito  y medir la resistencia tanto de un componente aislado como del que esta localizado en el circuito.
 
 ## 2. MARCO TEÓRICO (RESUMEN)
