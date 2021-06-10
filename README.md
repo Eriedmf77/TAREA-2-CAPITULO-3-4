@@ -529,6 +529,10 @@ Total:26,03 =26 doresres con 3 centavos
 
 ![image](https://user-images.githubusercontent.com/84431598/121600765-97c9ca80-ca0a-11eb-985d-9b029c40b0f0.png)
 
+63.- Un motor de cd de 120V opera una bomba a través de una caja de engranes (figura 4-24).Si la potencia de entrada a la bomba es de 1100W, la caja de engranes tiene una eficiencia de 75% y la potencia de entrada al motor es de 1600W, determine los caballos de potencia de salida del motor.
+
+![image](https://user-images.githubusercontent.com/84431598/121603958-4a9c2780-ca0f-11eb-914c-e412db669616.png)
+
 
 
 ### 3.2.7 RESISTENCIAS NO LINEALES Y DINÁMICAS
