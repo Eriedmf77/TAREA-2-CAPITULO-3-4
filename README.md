@@ -12,7 +12,10 @@
 ![image](https://user-images.githubusercontent.com/84431598/121468560-99e74700-c980-11eb-8bdb-f87883228d2f.png)
 
 
-### 2.1.2 TABLA DE ALAMBRES ELÉTRICOS
+### 2.1.2 TABLA DE ALAMBRES ELÉCTRICOS
+
+![image](https://user-images.githubusercontent.com/84431598/121546139-b0b58a00-c9d0-11eb-8724-03c4996c80cb.png)
+
 
 ### 2.1.3  RESISTENCIA DE ALAMBRES: MILESIMA CIRCULAR
 
