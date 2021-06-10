@@ -1,16 +1,7 @@
 # TAREA-2-CAPITULO-3-4
 
 ## 1.OBJETIVOS
- 
- -Calcular la reisistencia de una sección de un conductor, dada su área de sección trnasversal y la longitud.   
- 
- -Aplicar el coeficiente de temperatura  de un material para calcular el cambio de resistencia conforme varia la temperatura de la muestra.
- 
- -Emplear el codigo de colores de los resistores para determinar la resistencia, y tolerancia de un resistor de composición de valor fijo.
- 
- -Calcular la conductancia de cualquier componente resistivo.
- 
- -Reconocer el procedimiento para usar el óhmetro  con el fin de determinar la continuidad de un circuito  y medir la resistencia tanto de un componente aislado como del que esta localizado en el circuito.
+
 
 ## 2. MARCO TEÓRICO (RESUMEN)
 
@@ -222,11 +213,76 @@ b. Determine el diámetro del alambre en milésimas y en pulgadas.
 
 23.-Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 ohms (a una temperatura de 20°C).
 
-![image](https://user-images.githubusercontent.com/84458025/121452189-9e9e0200-c964-11eb-97b7-77ad723539fc.png)
+a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
 
+![image](https://user-images.githubusercontent.com/84458025/121452697-7c58b400-c965-11eb-8360-c233ed4e7483.png)
+
+
+b. Calcule la longitud del alambre en pies.
+
+![image](https://user-images.githubusercontent.com/84458025/121452797-aca05280-c965-11eb-85de-d8f748582fea.png)
+
+24.-Un alambre de hierro con un diámetro de 30 milésimas fue ocasionalmente usado para la transmisión telegráfica. Un técnico mide una sección de línea telegráfica que tiene una resistencia de 2500 ohms (a una temperatura de 20°C).
+a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
+
+b. Calcule la longitud del alambre en pies y en metros. (Nota: 1 pie = 0.3048 m.) Compare su repuesta con la obtenida en el problema 10.
 
 
 ### 3.1.4 EFECTOS DE LA TEMPERATURA
+
+25. Un conductor de aluminio tiene una resistencia de 50 ohms a temperatura ambiente. Encuentre la resistencia para el mismo conductor a -30°C, 0°C y a 200°C.
+
+![image](https://user-images.githubusercontent.com/84458025/121453419-c1c9b100-c966-11eb-980f-d29f91389d4e.png)
+
+26.-Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
+
+
+27. Cierto material tiene una resistencia de 20 ohms a temperatura ambiente (20°C) y 25 ohms a una temperatura de 85°C.
+
+a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
+
+20𝑜ℎ𝑚𝑠 = 25𝑜ℎ𝑚𝑠 1 + 𝛼(20℃ − 85℃)
+
+𝛼 = 3.0769 ∗ 10−3℃^−1
+
+b. Determine al valor del coeficiente de temperatura, a, a 20°C.
+
+𝑅0℃ = 20𝑜ℎ𝑚𝑠 1 + (3.0769 ∗ 10−3℃−1)(0℃ − 20℃)
+
+𝑅0℃ = 18.77𝑜ℎ𝑚𝑠
+
+c. Suponga que la función de resistencia frente a temperatura es lineal y determine la resistencia esperada del material a 0°C (el punto de congelación del agua) y a 100°C (el punto de ebullición del agua).
+
+𝑅100℃ = 20𝑜ℎ𝑚𝑠 1 + (3.0769 ∗ 10−3℃−1)(100℃ − 20℃)
+
+𝑅100℃ = 25 𝑜ℎ𝑚𝑠
+
+28.-Cierto material tiene una resistencia de 100 ohms a temperatura ambiente (20°C) y de 150 ohms a -25°C.
+
+a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
+
+b. Determine al valor del coeficiente de temperatura, a, a 20°C.
+
+c. Suponga que la función de resistencia frente a temperatura es lineal y determine la resistencia esperada del material a 0°C (el punto de congelación del agua) y a -40°C.
+
+29. Un calentador eléctrico está hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2 ohms a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C.
+
+![image](https://user-images.githubusercontent.com/84458025/121454825-1cfca300-c969-11eb-95af-216545a176bf.png)
+
+30.-Un diodo de silicio tiene una resistencia de 500 ohms a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
+
+31.-Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 ohms a una temperatura de -20°C y de 190 omhs a 120°C.
+
+a. Calcule la resistencia a una temperatura de 0°C.
+
+
+
+b. Calcule la resistencia a una temperatura de 80°C.
+
+
+
+c. Determine la intercepción de temperatura del material
+
 
 ### 3.1.5 TIPOS DE RESISTORES
 
