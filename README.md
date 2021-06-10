@@ -225,7 +225,17 @@ b. Calcule la longitud del alambre en pies.
 24.-Un alambre de hierro con un diámetro de 30 milésimas fue ocasionalmente usado para la transmisión telegráfica. Un técnico mide una sección de línea telegráfica que tiene una resistencia de 2500 ohms (a una temperatura de 20°C).
 a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
 
+R=(ρ*l)/A   
+
+A=(π*d^2)/4
+
+A=(π*(30mil)^2)/4=225π * mil^2
+
+A=(30mil)^2=900 MC
+
 b. Calcule la longitud del alambre en pies y en metros. (Nota: 1 pie = 0.3048 m.) Compare su repuesta con la obtenida en el problema 10.
+
+![image](https://user-images.githubusercontent.com/84458025/121463173-22f98080-c977-11eb-9b6b-1d9ec3ce1ffe.png)
 
 
 ### 3.1.4 EFECTOS DE LA TEMPERATURA
@@ -235,6 +245,8 @@ b. Calcule la longitud del alambre en pies y en metros. (Nota: 1 pie = 0.3048 m.
 ![image](https://user-images.githubusercontent.com/84458025/121453419-c1c9b100-c966-11eb-980f-d29f91389d4e.png)
 
 26.-Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
+
+![image](https://user-images.githubusercontent.com/84458025/121463284-66ec8580-c977-11eb-8c18-e231049421bb.png)
 
 
 27. Cierto material tiene una resistencia de 20 ohms a temperatura ambiente (20°C) y 25 ohms a una temperatura de 85°C.
@@ -260,16 +272,29 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y deter
 28.-Cierto material tiene una resistencia de 100 ohms a temperatura ambiente (20°C) y de 150 ohms a -25°C.
 
 a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
-
+ 
+ Tiene coeficiente positivo 
+ 
 b. Determine al valor del coeficiente de temperatura, a, a 20°C.
 
+![image](https://user-images.githubusercontent.com/84458025/121463891-79b38a00-c978-11eb-89dd-13674e4a49f9.png)
+
 c. Suponga que la función de resistencia frente a temperatura es lineal y determine la resistencia esperada del material a 0°C (el punto de congelación del agua) y a -40°C.
+
+
 
 29. Un calentador eléctrico está hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2 ohms a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121454825-1cfca300-c969-11eb-95af-216545a176bf.png)
 
 30.-Un diodo de silicio tiene una resistencia de 500 ohms a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
+
+R_2=R_1 (1+α(T_2-T_1 ))
+
+R_2=500Ω(1+0.075(20^0 C-(30^0 C)))
+
+R_2=125Ω
+
 
 31.-Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 ohms a una temperatura de -20°C y de 190 omhs a 120°C.
 
@@ -289,6 +314,9 @@ c. Determine la intercepción de temperatura del material
 
 
 32.-Deduzca la expresión de la ecuación 3-8.
+
+![image](https://user-images.githubusercontent.com/84458025/121464170-fe060d00-c978-11eb-81ee-42df1995808c.png)
+ 
 
 ### 3.1.5 TIPOS DE RESISTORES
 
