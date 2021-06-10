@@ -9,7 +9,7 @@
 
 ### 2.1.1 RESISTENCIA DE CONDUCTORES
 
-![image](https://user-images.githubusercontent.com/84431598/121468369-4b39ad00-c980-11eb-99a7-afd6638ab1c6.png)
+![image](https://user-images.githubusercontent.com/84431598/121468560-99e74700-c980-11eb-8bdb-f87883228d2f.png)
 
 
 ### 2.1.2 TABLA DE ALAMBRES ELÉTRICOS
