@@ -275,14 +275,20 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y deter
 
 a. Calcule la resistencia a una temperatura de 0°C.
 
+![image](https://user-images.githubusercontent.com/84458025/121461686-f3497900-c974-11eb-9736-2713cc43350c.png)
 
 
 b. Calcule la resistencia a una temperatura de 80°C.
 
+![image](https://user-images.githubusercontent.com/84458025/121461886-5509e300-c975-11eb-86f7-d31952b9a702.png)
 
 
 c. Determine la intercepción de temperatura del material
 
+![image](https://user-images.githubusercontent.com/84458025/121461953-6c48d080-c975-11eb-8c3a-d9aff5637f41.png)
+
+
+32.-Deduzca la expresión de la ecuación 3-8.
 
 ### 3.1.5 TIPOS DE RESISTORES
 
