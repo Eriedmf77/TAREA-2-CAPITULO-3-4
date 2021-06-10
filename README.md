@@ -5,6 +5,8 @@
 - Conversión de áreas medidas en milésimas cuadradas, metros cuadrados y milésimas circulares.
 -  Emplear el coeficiente de temperatura  de un material para calcular el cambio en la resistencia  conforme varía la temperatura de la muestra.
 -  Aplicar  el código de colores  de los resistores para determinar la resistencia y tolerancia  de un resistor de composición de valor fijo.
+- Calcular la conductancia de cualquier componete resistivo
+- Entender la resistencia de dispositivos no lineales como varistores y diodos.
 
 ## 2. MARCO TEÓRICO (RESUMEN)
 
