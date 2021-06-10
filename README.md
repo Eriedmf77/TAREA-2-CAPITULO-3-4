@@ -389,8 +389,6 @@ R=10K =10000 ohms
 
 ![image](https://user-images.githubusercontent.com/84458025/121580736-b58b3580-c9f2-11eb-8f5e-0e1aefb0514b.png)
 
-36.-Un resistor de 2.2 kohms con una tolerancia de ±5% se conecta a una fuente de cd de 12 V. ¿Cuál es el posible intervalo de potencia que disipa el resistor?
-
 
 37.-Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
 
@@ -413,7 +411,87 @@ R=V^2/P=〖(12 V)〗^2/(36 W)=4 Ω
 
 3,56hp.(746 W)/1hp=2655,76=2656 W
 
+41.-Un resistor de 0.27 kΩ es especificado en 2W. calcule el máximo voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación
 
+![image](https://user-images.githubusercontent.com/84458025/121587846-d5bef280-c9fa-11eb-8672-a0fd1272eb81.png)
+
+43.-Un resistor de 25 Ω se conecta a un suministro de energía cuyo voltaje es de 100 V ± 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?
+
+![image](https://user-images.githubusercontent.com/84458025/121588128-2d5d5e00-c9fb-11eb-8a72-ddc7e1c5fff4.png)
+
+45.-Cada bloque de la figura 4-38 puede ser una fuente o una carga. Determine, para cada uno, su potencia y dirección.
+
+![image](https://user-images.githubusercontent.com/84458025/121588421-80cfac00-c9fb-11eb-8c97-afad236fdf40.png)
+
+
+47.-Una lámpara de seguridad nocturna de 40 W se enciende por 9 horas.
+
+a.	Determine la energía usada en Joules.
+
+Energía (WH) =40w x 9h
+1W = 3600J
+360W = j
+
+
+b.	Determine la energía usada en watts-hora.
+
+Energía (WH) =40w x 9
+
+Wh=360wh
+
+c. A $0.08/kWh, ¿Cuánto cuesta encender esta lámpara por 9 horas?
+
+1000Wh = 8 centavos
+360Wh = c
+c= 2,88 dos dolres con 88 centavos
+
+49. Determine el costo total por usar los siguientes aparatos a $0.11 por kWh:
+a.	Un tostador de 900 W por 5 minutos.
+
+60min = 1h
+5min = X = 0,083h
+Energía (WH) =900w x 0,083h
+Energía (WH) = 74,7wh
+1000wh = 11 centavos
+74,4wh = x
+x= 0,81 centavos
+
+b.	Un calentador de 120 V y 8 A por 1.7 horas.
+
+P=VxI
+P=120Vx8A
+P(Wh)=Wxt
+P(Wh)=960x1,7
+P(Wh)=1632wh
+1000wh = 11 centavos
+1632wh = x
+x= 18 centavos
+
+
+c.	Un lavaplatos de 1 100 W por 36 minutos.
+
+60min = 1h
+36min = X = 0,6h
+Energía (WH) =1100w x 0,6h
+Energía (WH) = 660wh
+1000wh = 11 centavos
+60wh = x
+x= 7 centavos
+
+d.Un cautín de 120 V y 288 Ω por 24 minutos.
+
+=0,416A
+P=VxI
+P=49,92Wh
+60min = 1h
+24min = X = 0,4h
+Energía (WH) =49,92w x 0,4h
+Energía (WH) = 20wh
+1000wh = 11 centavos
+20wh = x
+x= 0,22 centavos
+
+Total:26,03 =26 doresres con 3 centavos
 
 
 ### 3.2.4 CONVENCIÓN DE LA DIRECCIÓN DE LA POTENCIA
