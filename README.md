@@ -523,6 +523,12 @@ Total:26,03 =26 doresres con 3 centavos
 
 ![image](https://user-images.githubusercontent.com/84431598/121598240-3c4a0d80-ca07-11eb-80b0-2d76afa00d27.png)
 
+61.- El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48V, una unidad de control/manejo de electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo?
+
+![image](https://user-images.githubusercontent.com/84431598/121600691-736dee00-ca0a-11eb-94d9-afef972dba0e.png)
+
+![image](https://user-images.githubusercontent.com/84431598/121600765-97c9ca80-ca0a-11eb-985d-9b029c40b0f0.png)
+
 
 
 ### 3.2.7 RESISTENCIAS NO LINEALES Y DINÁMICAS
