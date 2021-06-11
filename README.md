@@ -243,7 +243,6 @@ b. Determine el diámetro del alambre en milésimas y en pulgadas.
 
 𝑑 = 0.0644𝑝𝑙𝑔𝑠
 
-22.- Repita el problema 21 si el alambre está hecho de nicromo.
 
 23.-Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 ohms (a una temperatura de 20°C).
 
@@ -488,20 +487,8 @@ Nota: Todas las resistencias son de 15 Ω
 
 ![image](https://user-images.githubusercontent.com/84425276/121635853-93260600-ca4c-11eb-94c1-b2d989bef131.png)
 
-26.-Los amperímetros de la figura 4-37 tienen autopolaridad. Determine sus lecturas,magnitudes y polaridad.
-
-
 
 ### 3.2.3 POTENCIA
-
-27.-Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo.
-¿Cuál es la energía disipada en watts?
-
-
-28.-¿Cuánto tarda un cautín de 100 W en disipar 1470 J?
-
-
-29.-Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
 
 30.-Una cafetera de 120 V está especificada en 960 W. Determine su resistencia y especifique la corriente.
 
@@ -632,10 +619,6 @@ x= 0,22 centavos
 
 Total:26,03 =26 doresres con 3 centavos
 
-
-### 3.2.4 CONVENCIÓN DE LA DIRECCIÓN DE LA POTENCIA
-
-### 3.2.5 ENERGÍA
 
 ### 3.2.6 EFICIENCIA
 
