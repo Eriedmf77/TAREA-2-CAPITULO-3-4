@@ -661,5 +661,4 @@ Los valores son diferencias ya que el volumen y la corriente tiene valores difer
 
 ## 6. BIBLIOGRAFÍA 
 
-
-
+Robbins, A. & Miller, W. (2007). *Análisis de circuitos: teoría y práctica (4ta ed).* México D.F., México: Cengage Learning.
