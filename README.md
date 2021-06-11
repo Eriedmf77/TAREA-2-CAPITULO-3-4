@@ -41,11 +41,13 @@
 ### 2.1.7 MEDICIÓN  DE RESISTENCIA: EL ÓHMETRO
 
 ### 2.1.8 TERMISTORES 
-
 ### 2.1.9 CELDAS FOTOCONDUCTORAS
-### 2.1.10 RESISTENCIA NO LINEAL
 
 ![Termistores y celdas fotoconductoras](https://user-images.githubusercontent.com/84425276/121633303-2577db00-ca48-11eb-98f4-31a60aab5d54.png)
+
+### 2.1.10 RESISTENCIA NO LINEAL
+
+![Resistencia no lineal](https://user-images.githubusercontent.com/84425276/121633500-89020880-ca48-11eb-95db-a29cb3eb1de1.png)
 
 ### 2.1.11 CONDUCTANCIA 
 
