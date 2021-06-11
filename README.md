@@ -319,17 +319,65 @@ c. Determine la intercepción de temperatura del material
 
 ### 3.1.5 TIPOS DE RESISTORES
 
+![image](https://user-images.githubusercontent.com/84425276/121633877-3ecd5700-ca49-11eb-9998-6d113975f8a5.png)
+
+![image](https://user-images.githubusercontent.com/84425276/121633928-5573ae00-ca49-11eb-958c-44d2e322a3f6.png)
+
 ### 3.1.6 CÓDIGO DE COLORES DE RESISTORES
+
+![image](https://user-images.githubusercontent.com/84425276/121633973-6a504180-ca49-11eb-8dd0-b8b8c448e173.png)
 
 ### 3.1.7  MEDICIÓN DE RESISTENCIA: EL ÓHMETRO
 
+37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
+Medimos la resistencia del foco usando un óhmetro y si mide infinito (Error), quiere decir que el foco esta quemado, dañado.
+
+39. Explique como podría usar un óhmetro para determinar aproximadamente cuanto cable queda en un carrete de alambre de cobre AWG 24.
+Se mide con el óhmetro la resistencia del carrete y se hace una regla de tres
+1000 m→85Ω
+      x      →valor medido por el óhmetro
+
 ### 3.1.8 TERMISTORES
 
-### 3.1.9 CELDAS FOTOCONDUCTORAS 
+41. Un termistor tiene las características que se muestran en la figura 3-23.
+a. Determine la resistencia del dispositivo a temperatura ambiente, 20°C.
+R = 360 Ω
+b. Determine la resistencia del dispositivo a 40°C.
+R = 170 Ω
+c. ¿El termistor tiene un coeficiente de temperatura positivo o negativo?
+Explique.
+Es negativo, porque a mayor temperatura la resistencia del termistor en menor, o también la pendiente es negativa, o la curva es decreciente.
 
-### 3.1.10 RESISTENCIAS NO LINEAL
+![image](https://user-images.githubusercontent.com/84425276/121634123-aa172900-ca49-11eb-8935-a8451d07940e.png)
+
+
+### 3.1.9 CELDAS FOTOCONDUCTORAS 
+42. Para la fotocelda que tiene las características que se muestra en la figura
+3-24(c), determine la resistencia
+a. en un sótano con iluminación atenuada de 10 lux
+R = 18 kΩ
+b. en una casa con una iluminación de 50 lux
+R = 6 kΩ
+c. en un salón de clases con una iluminación de 500 lux
+R = 700 kΩ
+
+![image](https://user-images.githubusercontent.com/84425276/121634318-f1051e80-ca49-11eb-8586-c9bbcd645592.png)
 
 ### 3.1.11 CONDUCTANCIA
+43. Calcula la conductancia de las siguientes resistencias:
+a. 0.25 Ω
+G=1/R
+G=1/0.25Ω=4 ℧=4 S
+
+b. 500 Ω
+G=1/R
+G=1/500Ω=2×〖10〗^(-3)  ℧=2×〖10〗^(-3)  S
+c. 250 kΩ
+G=1/R
+G=1/(250×〖10〗^3 Ω)=4×〖10〗^(-6)  ℧=4×〖10〗^(-6)  S
+d. 12.5 MΩ
+G=1/R
+G=1/(12.5×〖10〗^6 Ω)=8×〖10〗^(-8)  ℧=8×〖10〗^(-8)  S
 
 ### 3.1.12 SUPERCONDUCTORES
 
