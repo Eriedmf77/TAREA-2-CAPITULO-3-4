@@ -32,7 +32,13 @@
 
 ### 2.1.3 RESISTENCIA DE ALAMBRES: MILESIMA CIRCULAR
 
+![image](https://user-images.githubusercontent.com/84431598/121637404-f0bb5200-ca4e-11eb-93a6-79a28521c874.png)
+
+
 ### 2.1.4 EFECTOS DE LA TEMPERATURA
+
+![image](https://user-images.githubusercontent.com/84431598/121637481-09c40300-ca4f-11eb-93af-0a2298160ab5.png)
+
 
 ### 2.1.5 TIPOS DE RESISTORES
 
