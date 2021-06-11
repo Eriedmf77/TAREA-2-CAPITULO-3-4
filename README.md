@@ -71,6 +71,8 @@
 
 ### 2.2.8 ANÁLISIS DE CIRCUITOS CON AYUDA DE LA COMPUTADORA
 
+![image](https://user-images.githubusercontent.com/84431598/121624764-b72b1c80-ca37-11eb-8d4b-f726cac43efe.png)
+
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS 
 
