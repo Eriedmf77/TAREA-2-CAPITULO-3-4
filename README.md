@@ -330,11 +330,15 @@ c. Determine la intercepción de temperatura del material
 ### 3.1.7  MEDICIÓN DE RESISTENCIA: EL ÓHMETRO
 
 37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
+
 Medimos la resistencia del foco usando un óhmetro y si mide infinito (Error), quiere decir que el foco esta quemado, dañado.
 
 39. Explique como podría usar un óhmetro para determinar aproximadamente cuanto cable queda en un carrete de alambre de cobre AWG 24.
+
 Se mide con el óhmetro la resistencia del carrete y se hace una regla de tres
+
 1000 m→85Ω
+
       x      →valor medido por el óhmetro
 
 ### 3.1.8 TERMISTORES
@@ -393,7 +397,66 @@ R = 700 kΩ
 
 ### 3.2.1 LEY DE OHM
 
+1. Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.
+
+![image](https://user-images.githubusercontent.com/84425276/121635065-4130b080-ca4b-11eb-90ca-f0c07d477cdb.png)
+
+3. Para el circuito de la figura 4-33, calcule V para cada uno de los siguientes incisos:
+
+![image](https://user-images.githubusercontent.com/84425276/121635146-5e657f00-ca4b-11eb-9158-d0efbf62cdc5.png)
+
+5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?
+
+![image](https://user-images.githubusercontent.com/84425276/121635221-7fc66b00-ca4b-11eb-99b8-35e392b72129.png)
+
+7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50 mA?
+
+![image](https://user-images.githubusercontent.com/84425276/121635250-8ce35a00-ca4b-11eb-9f56-2ac0ed2d7ce6.png)
+
+9. En la figura 4-33, si E = 30 V y la conductancia del resistor es de 0.2 S, ¿cuál es el valor de I? Sugerencia: véase la sección 3-11 en el capítulo 3.
+
+![image](https://user-images.githubusercontent.com/84425276/121635317-a5ec0b00-ca4b-11eb-9023-6f765ac1a71a.png)
+
+11. La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿cuál es su código de colores?
+
+![image](https://user-images.githubusercontent.com/84425276/121635412-cfa53200-ca4b-11eb-91b7-59fe06578ad6.png)
+
+13. En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?
+
+![image](https://user-images.githubusercontent.com/84425276/121635463-e51a5c00-ca4b-11eb-9133-e617773cc60c.png)
+
+15. Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una es de 3 pulgadas. Cuando se conecta a una fuente de cd de 48 V.
+
+![image](https://user-images.githubusercontent.com/84425276/121635535-08dda200-ca4c-11eb-8ea0-4eb20d845334.png)
+
+![image](https://user-images.githubusercontent.com/84425276/121635568-12ffa080-ca4c-11eb-96b6-ae682a6495ff.png)
+
+17. Un elemento resistivo esta hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20˚C es de 200 mA ¿cuál es el voltaje aplicado?
+
+![image](https://user-images.githubusercontent.com/84425276/121635625-2c085180-ca4c-11eb-975b-03527dbcec25.png)
+
+19. La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33.
+¿Cuál es el valor de R?
+
+![image](https://user-images.githubusercontent.com/84425276/121635659-3fb3b800-ca4c-11eb-8bc1-b3b48c514967.png)
+
+21. En un circuito resistivo, E = 100 V. Si R se duplica y E se cambia para que la nueva corriente sea el doble que la corriente original, ¿cuál es el nuevo valor de E?
+
+![image](https://user-images.githubusercontent.com/84425276/121635711-522df180-ca4c-11eb-8846-9f2aced1a808.png)
+
+23. Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿cuál es la corriente a 20˚C?
+
+![image](https://user-images.githubusercontent.com/84425276/121635744-65d95800-ca4c-11eb-807f-d42bee0187c8.png)
+
+
+
 ### 3.2.2 POLARIDAD DEL VOLTAJE Y DIRECCIÓN DE LA CORRIENTE
+
+25. Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
+Nota: Todas las resistencias son de 15 Ω
+
+![image](https://user-images.githubusercontent.com/84425276/121635853-93260600-ca4c-11eb-94c1-b2d989bef131.png)
+
 26.-Los amperímetros de la figura 4-37 tienen autopolaridad. Determine sus lecturas,magnitudes y polaridad.
 
 
