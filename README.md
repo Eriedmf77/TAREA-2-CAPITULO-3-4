@@ -43,20 +43,31 @@
 ### 2.1.8 TERMISTORES 
 
 ### 2.1.9 CELDAS FOTOCONDUCTORAS
-
 ### 2.1.10 RESISTENCIA NO LINEAL
+
+![Termistores y celdas fotoconductoras](https://user-images.githubusercontent.com/84425276/121633303-2577db00-ca48-11eb-98f4-31a60aab5d54.png)
 
 ### 2.1.11 CONDUCTANCIA 
 
+![Conductancia](https://user-images.githubusercontent.com/84425276/121633334-36c0e780-ca48-11eb-8b40-323f98beed7a.png)
+
 ### 2.1.12 SUPERCONDUCTORES
+
+![Superconductores](https://user-images.githubusercontent.com/84425276/121633365-417b7c80-ca48-11eb-8d0e-9f659219a724.png)
 
 ##  2.2 LEY DE OHM, POTENCIA Y ENERGÍA
 
 ### 2.2.1 LEY DE OHM
 
+![Ley de Ohm](https://user-images.githubusercontent.com/84425276/121633391-55bf7980-ca48-11eb-8656-2caede750287.png)
+
 ### 2.2.2  POLARIDAD DE VOLTAJE Y DIRECCIÓN 
 
+![Polaridad del voltaje y dirección de la corriente](https://user-images.githubusercontent.com/84425276/121633403-5bb55a80-ca48-11eb-9fcb-7ec285d95a42.png)
+
 ### 2.2.3 POTENCIA
+
+![Potencia](https://user-images.githubusercontent.com/84425276/121633420-62dc6880-ca48-11eb-8f7a-fa5c636ed89e.png)
 
 ### 2.2.4 CONVENCIÓN DE LA DIRECCIÓN DE LA POTENCIA
 
