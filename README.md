@@ -695,7 +695,13 @@ Los valores son diferencias ya que el volumen y la corriente tiene valores difer
 
 
 ## 5. CONCLUSIONES
+Con el aprendizaje de estas unidades se puede hacer un correcto manejo de las resistecias.
 
+Exisisten diverso tipos de clables los cuales tiene una expecificacion tecnica para un uso correcto  y manejo de corrientes. 
+
+Las resistencias y los cables tienen un cierto de rango de teperatura a la cual pueden trabjar  de forma correcte. 
+
+La temperatura influye en el funcionamiento correcto de las reistencias.
 
 ## 6. BIBLIOGRAFÍA 
 
