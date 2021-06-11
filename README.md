@@ -702,6 +702,7 @@ Los valores son diferencias ya que el volumen y la corriente tiene valores difer
 
 ## 4. VIDEO
 
+https://youtu.be/dPrDNRBTisc
 
 ## 5. CONCLUSIONES
 Con el aprendizaje de estas unidades se puede hacer un correcto manejo de las resistecias.
