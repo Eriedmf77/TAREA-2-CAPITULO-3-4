@@ -42,11 +42,24 @@
 
 ### 2.1.5 TIPOS DE RESISTORES
 
+![tipos de resistores](https://user-images.githubusercontent.com/84458025/121716361-8c77ad00-caa5-11eb-8d7e-7cefc90b2ae4.png)
+
+
 ### 2.1.6 CÓDIGO DE COLORES DE RESISTORES
+
+![codigo de colores](https://user-images.githubusercontent.com/84458025/121716176-563a2d80-caa5-11eb-9aa9-02868d5e160b.png)
+
 
 ### 2.1.7 MEDICIÓN  DE RESISTENCIA: EL ÓHMETRO
 
+![Medicon ohmetro](https://user-images.githubusercontent.com/84458025/121716609-d3fe3900-caa5-11eb-8aa4-444e6bcebf02.png)
+
+
 ### 2.1.8 TERMISTORES 
+
+![termisores](https://user-images.githubusercontent.com/84458025/121716713-f6905200-caa5-11eb-8c93-662f6c230141.png)
+
+
 ### 2.1.9 CELDAS FOTOCONDUCTORAS
 
 ![Termistores y celdas fotoconductoras](https://user-images.githubusercontent.com/84425276/121633303-2577db00-ca48-11eb-98f4-31a60aab5d54.png)
@@ -79,9 +92,18 @@
 
 ### 2.2.4 CONVENCIÓN DE LA DIRECCIÓN DE LA POTENCIA
 
+![Convencion](https://user-images.githubusercontent.com/84458025/121716820-1e7fb580-caa6-11eb-9466-791e58ecbdc4.png)
+
+
 ### 2.2.5 ENERGÍA
 
+![energia](https://user-images.githubusercontent.com/84458025/121716876-335c4900-caa6-11eb-8c68-6913a5ceaef4.png)
+
+
 ### 2.2.6 EFICIENCIA
+
+![eficiencia](https://user-images.githubusercontent.com/84458025/121716965-4b33cd00-caa6-11eb-9644-1331c64b547f.png)
+
 
 ### 2.2.7 RESISTENCIAS NO LINEALES Y DINÁMICAS
 
@@ -96,6 +118,9 @@
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS 
 
 ## 3.1 RESISTENCIA
+
+
+
 
 ### 3.1.1 RESISTENCIA DE CONDUCTORES
 
