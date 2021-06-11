@@ -669,9 +669,15 @@ Los valores son diferencias ya que el volumen y la corriente tiene valores difer
 
 69. Establezca el circuito de la figura 4-33 y resuelva  para las corrientes dado en el  par voltaje/resistencia del problema la 1c, 1d, y 1e.
 
+![image](https://user-images.githubusercontent.com/84458025/121723410-17f43c80-caac-11eb-9ec5-3de5f2272435.png)
 
-71. Haga clic en Coloca (Place) en la barra de menú; haga clic en Componentede la lista de Grupo, seleccione Básica (Basic), desplácese hacia abajo y haga clic en Interrumptor; seleccione SPDT, entonces haga clic en OK. Coloque en la pantalla y haga doble clin en su símbolo. Cuanndo la caja de diálogo se abra, seleccione la etiqueta valor, tecleé la letra A y haga click en OK. Señeccione un segundo interrumptor y etiquetelo (B). Agregue una fucnete de cd de 12V y una lámpara. Para agregar la lámpara  haga clin en Coloca/Compone y a apartir de la caja de Grupo seleccione Lámpara. Arme el circuito de la figura 2-27, opere las interruptores y determine si consiguío existosamente el control de dos vías.
+71. Haga clic en Coloca (Lugar) en la barra de menú; haga clic en Componente de la lista de Grupo, seleccione Básica (Básica), desplácese hacia abajo y haga clic en Interrumptor; seleccione SPDT, luego haga clic en OK. Coloque en la pantalla y haga doble clin en su símbolo. Cuanndo la caja de diálogo se abra, seleccione la etiqueta valor, tecleé la letra A y haga click en OK. Señeccione un segundo interrumptor y etiquetelo (B). Agregue una fucnete de cd de 12V y una lámpara. Para agregar la lámpara haga clin en Coloca / Componente ya apartir de la caja de Grupo seleccione Lámpara. Arme el circuito de la figura 2-27, opere las interruptores y determine si consiguió existosamente el control de dos vías.
 
+![image](https://user-images.githubusercontent.com/84458025/121723501-3823fb80-caac-11eb-84cb-00cb32e89464.png)
+
+73.-
+
+![image](https://user-images.githubusercontent.com/84458025/121723590-4ffb7f80-caac-11eb-92dc-a9b5a081981a.png)
 
 
 ## 4. VIDEO
